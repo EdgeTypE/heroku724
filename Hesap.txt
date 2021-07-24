@@ -1,0 +1,24 @@
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
+wait 3 seconds
+say günaydın
